@@ -1,0 +1,18 @@
+.first-class {
+    background-color: rgb(216, 60, 60);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+.second-class {
+    font-weight: bold ;
+}
+
+#first-id {
+    color: blue;
+    font-size: x-large;
+  }
+
+#second-id {
+    background-color: rgb(66, 144, 66);
+    font-weight: bold;
+  }
